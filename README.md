@@ -1,4 +1,4 @@
-# GUESS THE NUMBER
+# PRACTICE PROGRAMS
 
 ## Overview
 Welcome to my Python Coding Practice repository! Here, you'll find a collection of programs that I've written to enhance my coding skills with Python. Each program serves as a practice exercise, helping me explore and apply different aspects of the Python programming language.
