@@ -9,8 +9,8 @@ Browse through the programs directory to explore the various Python scripts I've
 ## Getting Started
 If you'd like to run any of these programs locally, follow these simple steps:
 1. Clone this repository to your machine:
-    bash: git clone https://github.com/your-uduhemeka/python-coding-practice.git
-    cd python-coding-practice
+    bash: git clone https://github.com/uduhemeka/python-scripts.git
+    cd python-scripts
 2. Navigate to the specific program directory you're interested in.
 3. Run the Python script:
     bash: python Guess_the_Number.py
